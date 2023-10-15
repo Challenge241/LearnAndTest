@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3c301425ee6a84048b9f4fe82d1be86e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sp: {instanceID: 0}
+  - right: {instanceID: 0}
+  - rightPos: {instanceID: 0}
+  - left: {instanceID: 0}
+  - leftPos: {instanceID: 0}
+  - birdboom: {fileID: 5354385188059390016, guid: e8d624b4a270c7048ac40909e596c45a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
